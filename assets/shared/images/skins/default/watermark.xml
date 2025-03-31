@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="watermark.png">
+	<SubTexture name="BOTPLAY0000" x="2" y="2" width="173" height="120"/>
+	<SubTexture name="PRACTICE0000" x="177" y="2" width="141" height="139"/>
+</TextureAtlas>

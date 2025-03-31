@@ -1,0 +1,14 @@
+{
+    "songList": 
+    {
+        "songs":["Whats-new", "Blast", "Super-saiyan"],
+        "songIcon": ["shaggy", "sshaggy", "sshaggy"],
+        "songColors": ["0xFF35714b"]
+    },
+    "weekImage": "week1",
+    "weekName": "The rematch",
+    "weekColor": "0xFF35714b",
+    "storyCharacters": ["dad","bf","gf"],
+    "startUnlocked": true,
+    "unlockWeek": "week 2"
+}

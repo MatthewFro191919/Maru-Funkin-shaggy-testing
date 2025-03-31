@@ -1,0 +1,13 @@
+{
+    "antialiasing": true,
+    "scale": 1,
+    "imagePath": "gf",
+    "anims": [
+        {
+            "animName": "idle",
+            "animFile": "GF Dancing Beat",
+            "loop": true,
+            "offsets": [-75,-37.5]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+	"imagePath": "week2/spookyKids",
+	"allowLod": true,
+	"camOffsets": [-170,75],
+	"icon": "spooky",
+	"isGF": false,
+	"scale": 1,
+	"charOffsets": [40,140],
+	"anims": [
+		{
+			"offsets": [50,28],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "Cheer",
+			"animName": "hey"
+		},
+		{
+			"offsets": [0,0],
+			"indices": [10,12,14,16],
+			"loop": false,
+			"framerate": 12,
+			"animFile": "Idle",
+			"animName": "danceRight"
+		},
+		{
+			"offsets": [-20,-145],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "SingDOWN",
+			"animName": "singDOWN"
+		},
+		{
+			"offsets": [-131,-14],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "SingRIGHT",
+			"animName": "singRIGHT"
+		},
+		{
+			"offsets": [0,0],
+			"indices": [0,2,4,6,8],
+			"loop": false,
+			"framerate": 12,
+			"animFile": "Idle",
+			"animName": "danceLeft"
+		},
+		{
+			"offsets": [137,-14],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "SingLEFT",
+			"animName": "singLEFT"
+		},
+		{
+			"offsets": [-15,27],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "SingUP",
+			"animName": "singUP"
+		}
+	],
+	"isPlayer": false,
+	"flipX": false,
+	"antialiasing": true,
+	"gameOverChar": "bf-dead",
+	"gameOverSuffix": ""
+}

@@ -1,0 +1,14 @@
+{
+    "songList": 
+    {
+        "songs":["Soothing-power", "Thunderstorm", "Dissasembler"],
+        "songIcons": ["rshaggy"],
+        "songColors": ["0xFFd11b1a"]
+    },
+    "weekImage": "week4",
+    "weekName": "Bonus match",
+    "weekColor": "0xFFd11b1a",
+    "storyCharacters": ["pico","bf","gf"],
+    "startUnlocked": false,
+    "unlockWeek": "week 4"
+}

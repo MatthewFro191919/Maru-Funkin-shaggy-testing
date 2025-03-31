@@ -1,0 +1,87 @@
+{
+	"imagePath": "week1/DADDY_DEAREST",
+	"camOffsets": [-150,100],
+	"icon": "dad",
+	"isGF": false,
+	"scale": 1,
+	"charOffsets": [0,350],
+	"anims": [
+		{
+			"offsets": [3,-30],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "Dad Sing Note DOWN",
+			"animName": "singDOWN"
+		},
+		{
+			"offsets": [-9,52],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "Dad Sing note UP",
+			"animName": "singUP"
+		},
+		{
+			"offsets": [-5,11],
+			"indices": [3,4,5],
+			"loop": true,
+			"framerate": 24,
+			"animFile": "dad sing note right",
+			"animName": "singLEFT-loop"
+		},
+		{
+			"offsets": [0,0],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "Dad idle dance",
+			"animName": "idle"
+		},
+		{
+			"offsets": [-3,27],
+			"indices": [3,4,5],
+			"loop": true,
+			"framerate": 24,
+			"animFile": "Dad Sing Note LEFT",
+			"animName": "singRIGHT-loop"
+		},
+		{
+			"offsets": [-3,27],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "Dad Sing Note LEFT",
+			"animName": "singRIGHT"
+		},
+		{
+			"offsets": [0,0],
+			"indices": [11,12,13],
+			"loop": true,
+			"framerate": 24,
+			"animFile": "Dad idle dance",
+			"animName": "idle-loop"
+		},
+		{
+			"offsets": [-5,11],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "dad sing note right",
+			"animName": "singLEFT"
+		},
+		{
+			"offsets": [-9,52],
+			"indices": [3,4,5],
+			"loop": true,
+			"framerate": 24,
+			"animFile": "Dad Sing note UP",
+			"animName": "singUP-loop"
+		}
+	],
+	"flipX": false,
+	"isPlayer": false,
+	"antialiasing": true,
+	"gameOverChar": "bf-dead",
+	"gameOverSuffix": ""
+}

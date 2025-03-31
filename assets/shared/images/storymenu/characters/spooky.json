@@ -1,0 +1,13 @@
+{
+    "antialiasing": true,
+    "scale": 1,
+    "imagePath": "spooky",
+    "anims": [
+        {
+            "animName": "idle",
+            "animFile": "spooky dance idle",
+            "loop": true,
+            "offsets": [85,-85]
+        }
+    ]
+}

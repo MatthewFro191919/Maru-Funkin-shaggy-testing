@@ -1,0 +1,13 @@
+{
+    "antialiasing": true,
+    "scale": 1,
+    "imagePath": "senpai",
+    "anims": [
+        {
+            "animName": "idle",
+            "animFile": "senpaiIdle",
+            "loop": true,
+            "offsets": [100,-100]
+        }
+    ]
+}

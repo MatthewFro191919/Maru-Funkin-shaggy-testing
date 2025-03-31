@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="tankman.png" width="1741" height="222">
+  <SubTexture name="Tankman Idle Dance0005" x="4" y="4" width="280" height="212" rotated="true"  frameX="-1" frameY="-6" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0001" x="292" y="4" width="277" height="213" rotated="true"  frameX="-2" frameY="-9" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0003" x="577" y="4" width="278" height="213" rotated="true"  frameX="-2" frameY="-8" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0007" x="863" y="4" width="286" height="213" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0008" x="1157" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0009" x="1451" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0002" x="292" y="4" width="277" height="213" rotated="true"  frameX="-2" frameY="-9" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0004" x="577" y="4" width="278" height="213" rotated="true"  frameX="-2" frameY="-8" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0006" x="4" y="4" width="280" height="212" rotated="true"  frameX="-1" frameY="-6" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0010" x="1451" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0011" x="1451" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0012" x="1451" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0013" x="1451" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+  <SubTexture name="Tankman Idle Dance0014" x="1451" y="4" width="286" height="214" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="286"/>
+</TextureAtlas>

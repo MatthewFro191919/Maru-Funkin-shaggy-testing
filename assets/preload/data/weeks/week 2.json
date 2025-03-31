@@ -1,0 +1,14 @@
+{
+    "songList": 
+    {
+        "songs":["GOD-EATER"],
+        "songIcons": ["pshaggy"],
+        "songColors": ["0xFF49346f"]
+    },
+    "weekImage": "week2",
+    "weekName": "Ultimate destruction",
+    "weekColor": "0xFF49346f",
+    "storyCharacters": ["spooky","bf","gf"],
+    "startUnlocked": false,
+    "unlockWeek": "week 3"
+}

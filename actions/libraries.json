@@ -1,0 +1,60 @@
+{
+    "dependencies": [
+        {
+            "name": "lime",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "openfl",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "flixel",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "flixel-addons",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "flixel-ui",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "hxcpp-debug-server",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "hxvlc",
+            "type": "install",
+            "version": null
+        },
+        {
+            "name": "moonchart",
+            "type": "git",
+            "dir": null,
+            "ref": "master",
+            "url": "https://github.com/MaybeMaru/moonchart"
+        },
+        {
+            "name": "maru-hscript",
+            "type": "git",
+            "dir": null,
+            "ref": "master",
+            "url": "https://github.com/MaybeMaru/hscript-improved"
+        },
+        {
+            "name": "discord_rpc",
+            "type": "git",
+            "dir": null,
+            "ref": "master",
+            "url": "https://github.com/Aidan63/linc_discord-rpc"
+        }
+    ]
+}
