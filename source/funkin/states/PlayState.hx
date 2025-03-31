@@ -26,6 +26,8 @@ class PlayState extends MusicBeatState
 	public var stage:Stage;
 	public var stageGroup:TypedGroup<Stage>;
 
+        public var currentMania:Int = 3;
+
 	public var dad:Character;
 	public var gf:Character;
 	public var boyfriend:Character;
